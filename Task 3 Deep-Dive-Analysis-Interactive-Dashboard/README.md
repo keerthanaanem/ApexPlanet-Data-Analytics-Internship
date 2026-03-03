@@ -51,14 +51,7 @@ Business Recommendation:
 - Drill-through analysis
 
 ---
-
-## 🌐 Live Dashboard Link
-(Insert your Power BI / Tableau Public link here)
-
----
  
-
----
 
 ## 🏆 Success Metrics
 ✔ Loads under 5 seconds  
