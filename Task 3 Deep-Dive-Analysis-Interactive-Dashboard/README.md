@@ -56,9 +56,7 @@ Business Recommendation:
 (Insert your Power BI / Tableau Public link here)
 
 ---
-
-## 🎥 LinkedIn Demo Video
-(Insert LinkedIn video link here)
+ 
 
 ---
 
