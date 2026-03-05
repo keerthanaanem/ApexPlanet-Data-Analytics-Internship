@@ -58,7 +58,7 @@ Each task represents a key data analytics skill in the lifecycle of a real busin
 - Data cleaning and transformation using Python (Pandas)  
 
 🔗 Repository:  
-👉 *[Task 1 – Data Immersion & Wrangling](https://github.com/keerthanaanem/ApexPlanet-Data-Analytics-Internship/tree/main/Task%201)*
+👉 *[Task 1 – Data Immersion & Wrangling](https://github.com/keerthanaanem/ApexPlanet-Data-Analytics-Internship/tree/main/Task-1-Data-Immersion-Wrangling)*
 ---
 
 ###🔹 Task 2: Exploratory Data Analysis (EDA)
