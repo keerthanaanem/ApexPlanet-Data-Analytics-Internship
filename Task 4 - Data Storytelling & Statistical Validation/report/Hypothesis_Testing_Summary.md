@@ -11,8 +11,8 @@ H₁: Repeat customers spend more
 Two-Sample T-Test
 
 ## Results
-T-Statistic
-P-Value
+T Statistic: 8.78874714591659
+P Value: 2.1434637964980095e-18
 
 ## Conclusion
 Since p < 0.05, we reject the null hypothesis.
