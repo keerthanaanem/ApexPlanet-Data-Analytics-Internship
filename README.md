@@ -70,7 +70,7 @@ Each task represents a key data analytics skill in the lifecycle of a real busin
 - Use of Matplotlib and Seaborn for clear visual storytelling  
 
 🔗 Repository:  
-👉 *[Task 2 – Exploratory Data Analysis]
+👉 *[Task 2 – Exploratory Data Analysis](https://github.com/keerthanaanem/ApexPlanet-Data-Analytics-Internship/tree/main/Task%20-%202%20-%20EDA%20%26%20Business)*
 
 ---
 
